@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+holidays
+pytest
+opencv-python
+plotly
+Pillow
